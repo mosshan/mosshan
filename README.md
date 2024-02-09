@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Hannah</h1>
+<h1 align="center">I'm Hannah</h1>
 <h3 align="center">An aspiring Software Engineer from Seattle</h3>
 
 - 🔭 I’m currently working on [productivitree](https://github.com/mosshan/productivitree)
